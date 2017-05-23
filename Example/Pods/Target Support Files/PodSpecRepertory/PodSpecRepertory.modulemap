@@ -1,0 +1,6 @@
+framework module PodSpecRepertory {
+  umbrella header "PodSpecRepertory-umbrella.h"
+
+  export *
+  module * { export * }
+}
